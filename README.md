@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+Software+Engineer+%7C+Full+Stack+Developer;⚛️+React+%26+Node.js+Expert+%7C+Team+Leader;🚀+Building+Scalable+Enterprise+Applications;🎯+Passionate+about+Clean+Code+%26+Innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💻+Software+Engineer+%7C+Backend+Developer;Python+FastAPI+%26+Node.js;🚀+Building+Scalable+Enterprise+Applications;🎯+Passionate+about+Clean+Code+%26+Innovation)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
@@ -22,10 +22,9 @@
 
 > *Versatile and results-driven Software Engineer with 3+ years of experience crafting digital solutions*
 
-- 🔭 **Currently:** Software Engineer (SDE-1) at **Neuromotion Systems**
-- 👨‍💼 **Leadership:** Led teams of **4+ developers** 
-- 🏗️ **Expertise:** Enterprise-grade **React.js, Node.js & MongoDB** applications
-- 🌱 **Learning:** Advanced **System Design** and **Cloud Architecture**
+- 🔭 **Currently:** Backend Developer at **Neuromotion Systems** 
+- 🏗️ **Expertise:** Enterprise-grade **Python, FastAPI, PostgreSQL, Node.js & MongoDB** applications
+- 🌱 **Learning:**System Design** and **Cloud Architecture**
 - 🎯 **Goal:** Building products that impact **millions of users**
 - 📍 **Location:** Noida, Uttar Pradesh, India
 - ⚡ **Fun fact:** I debug with `console.log()` and I'm proud of it! 😄
@@ -46,39 +45,26 @@
 
 <div align="center">
 
-### 🎨 Frontend Technologies
+### 🎨  Programming languages
 <p>
-  <a href="https://react.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React.js" />
-  </a>
-  <a href="https://nextjs.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" />
   </a>
   <a href="https://www.typescriptlang.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
   </a>
-  <a href="https://redux.js.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux Toolkit" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
   </a>
-  <a href="https://mui.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" title="Material-UI" />
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" />
   </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" />
-  </a>
-  <a href="https://tailwindcss.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" title="Tailwind CSS" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sass" alt="Sass" title="Sass" />
-  </a>
-</p>
 
 ### ⚙️ Backend & Database
 <p>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" />
+  </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
   </a>
@@ -116,12 +102,6 @@
   <a href="https://aws.amazon.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" />
   </a>
-  <a href="https://jestjs.io" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jest" alt="Jest" title="Jest" />
-  </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" title="Webpack" />
-  </a>
   <a href="https://www.figma.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" />
   </a>
@@ -135,14 +115,12 @@
 
 | 🎯 **Category** | 🔧 **Technologies** |
 |-----------------|---------------------|
-| **Frontend Development** | React.js, React Native, Next.js, Redux Toolkit, JavaScript ES6+, TypeScript |
-| **Styling & UI** | Material-UI, Bootstrap, Tailwind CSS, Sass, CSS3, HTML5 |
-| **Backend Development** | Node.js, Express.js, RESTful APIs, GraphQL |
-| **Database Management** | MongoDB, MySQL, Firebase Firestore |
-| **Testing & Quality** | Jest, React Testing Library, Storybook |
-| **Development Tools** | Git, GitHub, VS Code, Webpack, Babel |
+| **Backend Development** | Python, FastAPI, Node.js, Express.js, RESTful APIs|
+| **Database Management** | Postgres, MongoDB, MySQL, Firebase Firestore |
+| **Testing & Quality** | Jest |
+| **Development Tools** | Git, GitHub, VS Code |
 | **Project Management** | JIRA, Agile/Scrum, Code Reviews |
-| **Cloud & Deployment** | AWS, Firebase Hosting, Netlify, Vercel |
+| **Cloud & Deployment** | AWS, Firebase Hosting |
 
 </details>
 
@@ -159,7 +137,7 @@
   <img src="https://img.shields.io/badge/May_2025-Present-4CAF50?style=flat-square" alt="Current"/>
 </h3></summary>
 
-**Software Engineer (SDE-1)**
+**Backend Developer**
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" align="right">
 
@@ -172,53 +150,6 @@
 **Key Achievements:** 
 - 📈 Improved system performance by **35%**
 - 🚀 Reduced development time by **40%** through reusable components
-
-</details>
-
-<details>
-<summary><h3>🏢 Senwell Group Pvt. Ltd, Pune 
-  <img src="https://img.shields.io/badge/Nov_2023-Jan_2025-2196F3?style=flat-square" alt="Duration"/>
-</h3></summary>
-
-**Software Engineer & Team Lead**
-
-- 👥 **Team Leadership** - Successfully led 4 developers with 95% project delivery rate
-- 🎯 **Enterprise Applications** - End-to-end development of large-scale business applications
-- ⚛️ **Modern Stack** - Built responsive UIs using React.js, React Native & Material-UI
-- 🔗 **Full-Stack Development** - Integrated robust backends with MongoDB & Firebase
-- 👨‍🏫 **Mentorship** - Conducted code reviews and mentored 3 junior developers
-
-**Impact:** 
-- 📊 Increased team productivity by **30%**
-- 🎯 Achieved **98% code quality** score through rigorous reviews
-
-</details>
-
-<details>
-<summary><h3>🏢 BlooHash Technology Pvt. Ltd, Lucknow 
-  <img src="https://img.shields.io/badge/July_2022-Nov_2023-FF9800?style=flat-square" alt="Duration"/>
-</h3></summary>
-
-**Software Engineer**
-
-- 🚀 **Production Applications** - Delivered 5+ production-ready apps using modern React stack
-- 🔌 **API Development** - Built secure, modular REST APIs with comprehensive documentation
-- 🤝 **Cross-functional Collaboration** - Worked with designers, PMs, and QA teams
-- ⚡ **Performance Optimization** - Improved app load times by **50%**
-
-</details>
-
-<details>
-<summary><h3>🏢 ZN Infotech Pvt. Ltd, Lucknow 
-  <img src="https://img.shields.io/badge/Oct_2021-Mar_2022-9C27B0?style=flat-square" alt="Duration"/>
-</h3></summary>
-
-**Software Engineer Intern**
-
-- 🌱 **Foundation Building** - Mastered HTML5, CSS3, JavaScript & React.js fundamentals
-- 📱 **Responsive Design** - Created mobile-first, accessible user interfaces
-- 🔄 **Agile Learning** - Adapted to Agile workflows and Git collaboration
-- 🐛 **Debugging Skills** - Developed strong debugging and deployment practices
 
 </details>
 
@@ -340,8 +271,8 @@
 |---------------|-------------|
 | **Total Commits (2024)** | ![Commits](https://img.shields.io/badge/dynamic/json?color=36BCF7&label=Commits&query=$.totalCommits&url=https://api.github.com/search/commits?q=author:AryanPratapRao+committer-date:%3E2024-01-01&style=for-the-badge) |
 | **Public Repositories** | ![Repos](https://img.shields.io/badge/dynamic/json?color=36BCF7&label=Repositories&query=$.public_repos&url=https://api.github.com/users/AryanPratapRao&style=for-the-badge) |
-| **Code Review PRs** | ![PRs](https://img.shields.io/badge/Code_Reviews-25+-36BCF7?style=for-the-badge) |
-| **Issues Resolved** | ![Issues](https://img.shields.io/badge/Issues_Closed-15+-36BCF7?style=for-the-badge) |
+| **Code Review PRs** | ![PRs](https://img.shields.io/badge/Code_Reviews-2+-36BCF7?style=for-the-badge) |
+| **Issues Resolved** | ![Issues](https://img.shields.io/badge/Issues_Closed-115+-36BCF7?style=for-the-badge) |
 
 </div>
 
@@ -356,19 +287,9 @@
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60">
-  <br><b>🎯 Project Leadership</b>
-  <br>Led 10+ projects from conception to deployment
-</td>
-<td align="center" width="25%">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60">
   <br><b>⚡ Performance Expert</b>
   <br>Improved app performance by 35% on average
-</td>
-<td align="center" width="25%">
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="60">
-  <br><b>👥 Team Mentor</b>
-  <br>Successfully mentored 5+ junior developers
 </td>
 <td align="center" width="25%">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
@@ -387,13 +308,12 @@
 </div>
 
 **🎓 B.Tech in Computer Science & Engineering**
-- *SR Institute of Management & Technology, Lucknow*
-- **CGPA:** 7.6/10.0 (2018-2022)
+- *Buddha Institute of Technology , Gorakhpur
+4.01,521 Google reviews
+College in Jhungia, Uttar Pradesh
+*
+- **CGPA:** 7.56/10.0 (2021-2025)
 - **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Software Engineering
-
-**📚 Higher Secondary Education**
-- *Dr. B.R.A Intermediate College, Deoria (2018)*
-- *Saraswati Senior Secondary School, Deoria (2015)*
 
 ---
 
@@ -401,11 +321,9 @@
 
 <div align="center">
 
-[![Next.js](https://img.shields.io/badge/Advanced_Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![TypeScript](https://img.shields.io/badge/Advanced_TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/Advanced_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 </div>
 
@@ -424,7 +342,7 @@
 ## 🐍 Contribution Snake Animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhimanyuyadav0/abhimanyuyadav0/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AryanPratapRao/AryanPratapRao/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -436,13 +354,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c27fd.gif" width="100" alt="Animated Avatar" />
 
 
-### 💬 Let's Build Something Amazing Together!
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://abhimanyu-yadav.vercel.app/)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-4CAF50?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1772MxPSYd-Ub5QINzTpHq9ec_L4vFJWG/view?usp=sharing)
-[![Calendar](https://img.shields.io/badge/📅_Schedule_Call-Book_Now-2196F3?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/abhimanyuyadav)
-
-<br>
 
 **💡 Open to:**
 - 🚀 **Freelance Projects** & **Consulting**
