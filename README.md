@@ -308,10 +308,7 @@
 </div>
 
 **🎓 B.Tech in Computer Science & Engineering**
-- *Buddha Institute of Technology , Gorakhpur
-4.01,521 Google reviews
-College in Jhungia, Uttar Pradesh
-*
+- Buddha Institute of Technology , Gorakhpur UP
 - **CGPA:** 7.56/10.0 (2021-2025)
 - **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Software Engineering
 
